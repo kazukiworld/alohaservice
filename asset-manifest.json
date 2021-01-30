@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/alohaservice/static/css/main.ba2daea2.chunk.css",
+    "main.js": "/alohaservice/static/js/main.42386779.chunk.js",
+    "main.js.map": "/alohaservice/static/js/main.42386779.chunk.js.map",
+    "runtime-main.js": "/alohaservice/static/js/runtime-main.483d29de.js",
+    "runtime-main.js.map": "/alohaservice/static/js/runtime-main.483d29de.js.map",
+    "static/js/2.236cc887.chunk.js": "/alohaservice/static/js/2.236cc887.chunk.js",
+    "static/js/2.236cc887.chunk.js.map": "/alohaservice/static/js/2.236cc887.chunk.js.map",
+    "index.html": "/alohaservice/index.html",
+    "static/css/main.ba2daea2.chunk.css.map": "/alohaservice/static/css/main.ba2daea2.chunk.css.map",
+    "static/js/2.236cc887.chunk.js.LICENSE.txt": "/alohaservice/static/js/2.236cc887.chunk.js.LICENSE.txt",
+    "static/media/Bedroom.889efb2f.png": "/alohaservice/static/media/Bedroom.889efb2f.png",
+    "static/media/arrow-down.6b812d18.svg": "/alohaservice/static/media/arrow-down.6b812d18.svg",
+    "static/media/carpet.b3837e12.jpg": "/alohaservice/static/media/carpet.b3837e12.jpg",
+    "static/media/cleaning.a73494a9.png": "/alohaservice/static/media/cleaning.a73494a9.png",
+    "static/media/empty.78b8c61c.jpg": "/alohaservice/static/media/empty.78b8c61c.jpg",
+    "static/media/flower.1084d87f.png": "/alohaservice/static/media/flower.1084d87f.png",
+    "static/media/luxury.884d8e96.jpg": "/alohaservice/static/media/luxury.884d8e96.jpg",
+    "static/media/office.cb691de9.jpg": "/alohaservice/static/media/office.cb691de9.jpg",
+    "static/media/old.195bb9ee.jpg": "/alohaservice/static/media/old.195bb9ee.jpg",
+    "static/media/party.2f509d6d.jpg": "/alohaservice/static/media/party.2f509d6d.jpg",
+    "static/media/restaurant.350d0f15.jpg": "/alohaservice/static/media/restaurant.350d0f15.jpg",
+    "static/media/spa.ebb602d8.jpg": "/alohaservice/static/media/spa.ebb602d8.jpg",
+    "static/media/vacationrental3.624d81ce.jpg": "/alohaservice/static/media/vacationrental3.624d81ce.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.483d29de.js",
+    "static/js/2.236cc887.chunk.js",
+    "static/css/main.ba2daea2.chunk.css",
+    "static/js/main.42386779.chunk.js"
+  ]
+}
