@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/alohaservice/static/css/main.c5c32c5a.chunk.css",
-    "main.js": "/alohaservice/static/js/main.90733cdc.chunk.js",
-    "main.js.map": "/alohaservice/static/js/main.90733cdc.chunk.js.map",
+    "main.js": "/alohaservice/static/js/main.e6014388.chunk.js",
+    "main.js.map": "/alohaservice/static/js/main.e6014388.chunk.js.map",
     "runtime-main.js": "/alohaservice/static/js/runtime-main.483d29de.js",
     "runtime-main.js.map": "/alohaservice/static/js/runtime-main.483d29de.js.map",
     "static/js/2.236cc887.chunk.js": "/alohaservice/static/js/2.236cc887.chunk.js",
@@ -28,6 +28,6 @@
     "static/js/runtime-main.483d29de.js",
     "static/js/2.236cc887.chunk.js",
     "static/css/main.c5c32c5a.chunk.css",
-    "static/js/main.90733cdc.chunk.js"
+    "static/js/main.e6014388.chunk.js"
   ]
 }
