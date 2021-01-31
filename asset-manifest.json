@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/alohaservice/static/css/main.f66bc609.chunk.css",
+    "main.css": "/alohaservice/static/css/main.07f6040a.chunk.css",
     "main.js": "/alohaservice/static/js/main.8f0de7df.chunk.js",
     "main.js.map": "/alohaservice/static/js/main.8f0de7df.chunk.js.map",
     "runtime-main.js": "/alohaservice/static/js/runtime-main.483d29de.js",
@@ -8,7 +8,7 @@
     "static/js/2.236cc887.chunk.js": "/alohaservice/static/js/2.236cc887.chunk.js",
     "static/js/2.236cc887.chunk.js.map": "/alohaservice/static/js/2.236cc887.chunk.js.map",
     "index.html": "/alohaservice/index.html",
-    "static/css/main.f66bc609.chunk.css.map": "/alohaservice/static/css/main.f66bc609.chunk.css.map",
+    "static/css/main.07f6040a.chunk.css.map": "/alohaservice/static/css/main.07f6040a.chunk.css.map",
     "static/js/2.236cc887.chunk.js.LICENSE.txt": "/alohaservice/static/js/2.236cc887.chunk.js.LICENSE.txt",
     "static/media/Bedroom.889efb2f.png": "/alohaservice/static/media/Bedroom.889efb2f.png",
     "static/media/arrow-down.6b812d18.svg": "/alohaservice/static/media/arrow-down.6b812d18.svg",
@@ -27,7 +27,7 @@
   "entrypoints": [
     "static/js/runtime-main.483d29de.js",
     "static/js/2.236cc887.chunk.js",
-    "static/css/main.f66bc609.chunk.css",
+    "static/css/main.07f6040a.chunk.css",
     "static/js/main.8f0de7df.chunk.js"
   ]
 }
