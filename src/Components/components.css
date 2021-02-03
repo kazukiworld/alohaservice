@@ -1,0 +1,15 @@
+/* InfoLayout.js */
+.information{
+    margin-bottom: 3vw;
+}
+.subheader{
+    font-size: clamp(16px, 5vw, 1.8rem);
+    font-weight: bold;
+    margin: 0.8vw 0px;
+    margin-bottom: 1vw;
+}
+
+.paragraph{
+    font-size: clamp(16px, 4vw, 1.2rem);
+    text-align: left;
+}

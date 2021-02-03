@@ -1,0 +1,241 @@
+/* Home Section */
+.Home{
+  height: 100vh;
+  width: 100vw;
+}
+
+
+.HomePic{
+  z-index: 1;
+  position: fixed;
+  top: 0px;
+  width: 100vw;
+  min-width: 100rem;
+  height: auto;
+  
+}
+
+.homeContent{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+/* Navigation Bar Component */
+
+.navBar {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+  z-index: 2;
+}
+
+.navClickables {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+  z-index: 2;
+}
+
+.navItems {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 45vw;
+  font-size:clamp(16px, 4vw, 1.4rem);
+  font-weight: bold;
+}
+
+.NavItem {
+  cursor: pointer;
+}
+
+.logo {
+  font-family: serif;
+  font-weight: bold;
+  color: #b4fff3;
+  width: 15rem;
+  text-align: center;
+  line-height: 30px;
+}
+
+.logoTop {
+  font-size: 3.2rem;
+  line-height: 28px;
+}
+
+.logoBottom {
+  font-size: 1.7rem;
+  line-height: 28px;
+}
+
+.translation {
+  font-family: serif;
+  border: 2px solid #00002a;
+  font-size: 1.4rem;
+  width: 10rem;
+  margin: 0 2.5rem 0;
+  height: 4rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  font-weight: bold;
+  text-align: center;
+}
+
+@media screen and (max-width:768px){
+
+  .Home{
+    height: 100%;
+    width: 100vw;
+  }
+  .navBar {
+    background-color: #00002a;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+   
+    z-index: 2;
+    width: 100vw;
+
+  }
+  
+  
+.navClickables {
+  position: relative;
+  padding: 0;
+}
+/* 
+.navBarBg {
+  position: absolute;
+  background-color: rgba(0, 0, 30, 0.6);
+  z-index: 3;
+  width: 100vw;
+  height: 100vh;
+} */
+
+  .navItems {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    align-items: center;
+    width: auto;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+  }
+  
+  
+.NavItem {
+  cursor: pointer;
+  margin: 4px;
+}
+  
+.logo {
+  font-family: serif;
+  font-weight: bold;
+  color: #b4fff3;
+  width: 15rem;
+  text-align: center;
+  line-height: 26px;
+  padding: 1rem;
+}
+
+.logoTop {
+  font-size: 38px;
+  margin: 0%;
+}
+
+.logoBottom {
+  font-size: 20px;
+  margin: 0%;
+}
+
+  .translation {
+    font-family: serif;
+    font-size: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    border: 2px solid;
+    margin: 6px;
+    width: 5rem;
+    height: 2rem;
+  }
+
+  
+  }
+
+/* Title Component */
+.Titles{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.title {
+  width: 86vw;
+  height: 64.5vw;
+  max-width: 40rem;
+  max-height: 30rem;
+  background-color: rgba(0, 0, 30, 0.84);
+  z-index: 2;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #d4fff8;
+  font-weight: bold;
+  position: relative;
+  text-align: center;
+  margin-top: 4vw;
+  margin-bottom: 6vw;
+}
+
+.statement{
+  margin: 0;
+  margin-bottom: clamp(20px, 4vw, 2rem);
+  font-size: clamp(26px, 3vw, 3rem);
+}
+
+.contactBtn {
+  border: 2px solid white;
+  color: white;
+  width: 40vw;
+  height: 10vw;
+  max-width: 10rem;
+  max-height: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.8vw 1.6vw;
+}
+
+.contactLine{
+  font-size: clamp(16px,1.2vw,1.4rem);
+}
+
+.arrowIcon{
+  position: relative;
+  width: clamp(40px, 4vw, 4rem);
+  z-index: 2;
+  fill:  #b4fff3;
+
+}
